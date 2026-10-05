@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.log
+models/*.joblib
+models/*.json
+data/*.csv
+screenshots/*.png
+reports/generated/*
+frontend/node_modules/
+frontend/dist/
+.DS_Store
